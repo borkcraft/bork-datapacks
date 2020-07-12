@@ -1,1 +1,1 @@
-# bork-resourse-packs
+# bork-datapacks
